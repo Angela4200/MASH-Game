@@ -20,25 +20,25 @@
       </div>
       <div class="bucket">
         <div class="choice-bucket">
-          <h4 class="highlight">Where will you live?</h4>
-          <input name="answer_1[]">
-          <input name="answer_1[]">
-          <input name="answer_1[]">
-          <input name="answer_1[]">
+          <h4 class="highlight">What is your future house?</h4>
+          <input name="answer_1[Beach House]">
+          <input name="answer_1[Open Field House]">
+          <input name="answer_1[Hovering House]">
+          <input name="answer_1[Mansion House]">
         </div>
         <div class="choice-bucket">
-          <h4 class="highlight">Your future profession?</h4>
-          <input name="answer_2[]">
-          <input name="answer_2[]">
-          <input name="answer_2[]">
-          <input name="answer_2[]">
+          <h4 class="highlight">What is your future studio place?</h4>
+          <input name="answer_2[At Home Studio]">
+          <input name="answer_2[Spacious Studio]">
+          <input name="answer_2[A building Studio]">
+          <input name="answer_2[Out door Studio]">
         </div>
         <div class="choice-bucket">
-          <h4 class="highlight">What's your future pet?</h4>
-          <input name="answer_3[]">
-          <input name="answer_3[]">
-          <input name="answer_3[]">
-          <input name="answer_3[]">
+          <h4 class="highlight">Your future hobbies?</h4>
+          <input name="answer_3[Practice Yoga]">
+          <input name="answer_3[Making Music]">
+          <input name="answer_3[Making Art Work]">
+          <input name="answer_3[Photography]">
         </div>
       </div>
       <button type="submit" class="button-submit">Tell my fortune</button>
